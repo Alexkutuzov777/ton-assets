@@ -2,12 +2,17 @@ Please make sure you change the original .yaml fields in the accounts/, collecti
 Example pull request:
 
 ```yaml
-address: Address of your token 
-symbol: Symbol of your token
+name: Not Games
+description: Investment token. Reward token. Simply hold the token in your wallet and receive regular dividends.
+image: "https://i.postimg.cc/kXz64FK5/IMG-20250215-233246-316.jpg"
+address: EQBwfwWdDuc7XycGfq7FSNB4vo9Fr9DnzilT2GqpeW9-eJ2Q
+symbol: NG
+decimals: 9
 websites:
-  - "link"
-social:
-  - "link"
+ - ""
+social: 
+ - "https://t.me/NotGamesCoin"
+ - "https://t.me/+tUl93c6SmPQ5NDEy"
 ```
 
 **ATTENTION! The Tonkeeper team does not charge any fees for checking/verifying tokens/collections. The procedure is ABSOLUTELY FREE. Ignore comments in commits that require payment to speed up/successfully check the PR. Stay safe fren!**
@@ -16,12 +21,17 @@ social:
 Пример пул реквеста:
 
 ```yaml
-address: Адрес вашего токена 
-symbol: Сивол вашего токена
+name: Not Games
+description: Investment token. Reward token. Simply hold the token in your wallet and receive regular dividends.
+image: "https://i.postimg.cc/kXz64FK5/IMG-20250215-233246-316.jpg"
+address: EQBwfwWdDuc7XycGfq7FSNB4vo9Fr9DnzilT2GqpeW9-eJ2Q
+symbol: NG
+decimals: 9
 websites:
-  - "ссылка"
-social:
-  - "ссылка"
+ - ""
+social: 
+ - "https://t.me/NotGamesCoin"
+ - "https://t.me/+tUl93c6SmPQ5NDEy"
   ```
 
 **ВНИМАНИЕ! Команда Tonkeeper не берет никакой оплаты за проверку/верификацию токенов/коллекций. Процедура АБСОЛЮТНО БЕСПЛАТНА. Игнорируйте комментарии в коммитах, требующих оплаты для ускорения/успешности проверки. Будьте внимательны и осторожны!**
